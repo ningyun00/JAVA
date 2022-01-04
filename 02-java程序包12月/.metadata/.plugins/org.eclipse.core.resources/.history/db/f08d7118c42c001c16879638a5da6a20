@@ -1,0 +1,11 @@
+package fuXi10_14;
+
+public class Timu02 {
+
+	public static void main(String[] args) {
+		System.out.println("姓名：\n寜");
+		System.out.println("职业：\n法师");
+		System.out.println("出生：\n神族");
+	}
+
+}
